@@ -1,4 +1,6 @@
 # PetroPulse: Ethiopia Fuel Intelligence & Landed Cost Engine
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+
 ### A Real-Time Decision Support System for National Fuel Procurement and Margin Analysis
 
 ---
